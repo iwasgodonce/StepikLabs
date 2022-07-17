@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\bin\Debug\net6.0\Firstapp.exe
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\bin\Debug\net6.0\Firstapp.deps.json
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\bin\Debug\net6.0\Firstapp.runtimeconfig.json
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\bin\Debug\net6.0\Firstapp.dll
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\bin\Debug\net6.0\Firstapp.pdb
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.dll
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\refint\Firstapp.dll
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.pdb
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\Firstapp.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\VSCodeStudy\Firstapp\obj\Debug\net6.0\ref\Firstapp.dll
