@@ -2,6 +2,8 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        byte number = 254;
+        long number1 = Convert.ToInt64(number);
+        Console.WriteLine(number1);
     }
 }
