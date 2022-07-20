@@ -12,8 +12,12 @@
         //bool result = Convert.ToBoolean(answer);
         //Console.WriteLine($"Ответ: {result}");
 
-        string some = "?";
-        char mark = char.Parse(some);
-        Console.WriteLine(mark);
+        //string some = "?";
+        //char mark = char.Parse(some);
+        //Console.WriteLine(mark);
+
+        string variable = "5,25";
+        double number = double.Parse(variable);
+        Console.WriteLine(number);
     }
 }
