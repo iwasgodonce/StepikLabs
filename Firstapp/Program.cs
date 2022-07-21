@@ -20,7 +20,15 @@
         //double number = double.Parse(variable);
         //Console.WriteLine(number);
 
-        int mult = 45*78;
-        Console.WriteLine(mult);
+        //int mult = 45*78;
+        //Console.WriteLine(mult);
+
+        Console.WriteLine("Введите числа в диапазоне от 1 до 100.");
+        double num1 = double.Parse(Console.ReadLine());
+        double num2 = double.Parse(Console.ReadLine());
+        Console.WriteLine($"1 число: {num1}");
+        Console.WriteLine($"2 число: {num2}");
+        double result = num1/num2;
+        Console.WriteLine(result);
     }
 }
