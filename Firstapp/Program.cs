@@ -16,8 +16,10 @@
         //char mark = char.Parse(some);
         //Console.WriteLine(mark);
 
-        string variable = "5,25";
-        double number = double.Parse(variable);
-        Console.WriteLine(number);
+        //string variable = "5,25";
+        //double number = double.Parse(variable);
+        //Console.WriteLine(number);
+
+        
     }
 }
