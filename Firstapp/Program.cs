@@ -20,6 +20,7 @@
         //double number = double.Parse(variable);
         //Console.WriteLine(number);
 
-        
+        int mult = 45*78;
+        Console.WriteLine(mult);
     }
 }
