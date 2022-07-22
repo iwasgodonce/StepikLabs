@@ -71,12 +71,30 @@
         int num = int.Parse(Console.ReadLine());
         if (num % 2 == 0)
         {
-            Console.WriteLine("Число чётное");
+           Console.WriteLine("Число чётное");
         }
         else
         {
-            Console.WriteLine("Число нечётное");
+           Console.WriteLine("Число нечётное");
         }
+        Console.ReadKey();
+
+        // bool virus = bool.Parse(Console.ReadLine());
+        // bool HighTemperature = bool.Parse(Console.ReadLine());
+        // bool NoCooling = bool.Parse(Console.ReadLine());
+        // if (virus == true & HighTemperature == true)
+        // {
+        //     Console.WriteLine("Угроза повреждения системы!");
+        // }
+        // if (virus == false & HighTemperature == false & NoCooling == true)
+        // {
+        //     Console.WriteLine("Угроза повреждения системы!");
+        // }
+        // if (virus == true & HighTemperature == false & NoCooling == false)
+        // {
+        //     Console.WriteLine("Обнаружены незначительные угрозы.");
+        // }
+        // if (virus == false & HighTemperature == true)
 
     }
 }
