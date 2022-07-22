@@ -57,14 +57,25 @@
         //double b = rand.Next(31);
         //Console.WriteLine(a+b);
 
-        bool variable = bool.Parse(Console.ReadLine());
-        if (variable == true)
-        { 
-            Console.WriteLine("Попадание!");
+        //bool variable = bool.Parse(Console.ReadLine());
+        //if (variable == true)
+        //{ 
+        //    Console.WriteLine("Попадание!");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("Промах!");
+        //}
+
+        Console.WriteLine("Введите число:");
+        int num = int.Parse(Console.ReadLine());
+        if (num % 2 == 0)
+        {
+            Console.WriteLine("Число чётное");
         }
         else
         {
-            Console.WriteLine("Промах!");
+            Console.WriteLine("Число нечётное");
         }
 
     }
