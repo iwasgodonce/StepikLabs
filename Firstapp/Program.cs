@@ -52,10 +52,20 @@
         //int b = int.Parse(Console.ReadLine());
         //Console.WriteLine($"{a} меньше или равно {b} - {a<=b}");
 
-        Random rand = new Random();
-        double a = rand.Next(31);
-        double b = rand.Next(31);
-        Console.WriteLine(a+b);
+        //Random rand = new Random();
+        //double a = rand.Next(31);
+        //double b = rand.Next(31);
+        //Console.WriteLine(a+b);
+
+        bool variable = bool.Parse(Console.ReadLine());
+        if (variable == true)
+        { 
+            Console.WriteLine("Попадание!");
+        }
+        else
+        {
+            Console.WriteLine("Промах!");
+        }
 
     }
 }
