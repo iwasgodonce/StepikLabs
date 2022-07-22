@@ -94,7 +94,10 @@
         {
             Console.WriteLine("Обнаружены незначительные угрозы.");
         }
-        if (virus == false & HighTemperature == true)
+        if (virus == false & HighTemperature == true & NoCooling == false)
+        {
+            Console.WriteLine("Обнаружены незначительные угрозы.");
+        }
 
     }
 }
