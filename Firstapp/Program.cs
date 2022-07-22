@@ -31,11 +31,20 @@
         //double result = num1/num2;
         //Console.WriteLine(result);
 
-        double a = double.Parse(Console.ReadLine());
-        double b = double.Parse(Console.ReadLine());
-        double c = double.Parse(Console.ReadLine());
-        double d = double.Parse(Console.ReadLine());
-        double result = (b+d)/a+c;
-        Console.WriteLine(result);
+        //double a = double.Parse(Console.ReadLine());
+        //double b = double.Parse(Console.ReadLine());
+        //double c = double.Parse(Console.ReadLine());
+        //double d = double.Parse(Console.ReadLine());
+        //double result = (b+d)/a+c;
+        //Console.WriteLine(result);
+
+        //Console.WriteLine("Введите любое число от 1 до 10:");
+        //int num = int.Parse(Console.ReadLine());
+        //Console.WriteLine("Измененное число:"+ ++num);
+
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        Console.WriteLine(--a*b);
+
     }
 }
